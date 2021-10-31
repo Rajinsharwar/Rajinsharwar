@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajinsharwar
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in Cloud Computing.
 - 🌱 I’m currently learning C#,Python and Javascript
-- 💞️ I’m looking to collaborate on Website design.
+- 💞️ I’m looking to collaborate on Server administration tools.
 - 📫 Reach me on rajinsharwar@gmail.com
 
 <!---
